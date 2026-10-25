@@ -1,3 +1,5 @@
+Product Manager and developer at [PatrolTech](https://patroltech.online/en), a guard tour platform for QR/NFC checkpoints, offline patrol recording and incident reports.
+
 ![Metrics](/github-metrics.svg)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2037%20mins-blue)
